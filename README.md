@@ -19,5 +19,5 @@
  
  [4] Result: Given the input commodity id, output similarity commodity id with descending score of similarity  
  
- In output_recommodation_commodity/recommodation_repository.csv, cit_id is commodity id, cca_id is the similar commodity id. The list of similar_id is sorted by descending score of similarity.
+ In output_recommodation_commodity/recommodation_repository.csv, cit_id is commodity id, similar_id is the similar commodity id. The list of similar_id is sorted by descending score of similarity.
  
