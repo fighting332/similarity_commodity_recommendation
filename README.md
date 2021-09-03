@@ -7,7 +7,7 @@
  
  A. In input_commodity_information/commodity_item.csv file, cit_id is commodity id, cit_name is commodity name.
  
- B. In input_commodity_information/commodity_category_relationship.csv file, cit_id is commodity id, cca_id is categories which commodity belongs to.
+ B. In input_commodity_information/commodity_category_relationship.csv file, cit_id is commodity id, cca_id is categories id which commodity belongs to.
  
  [3] Techniques:
  
