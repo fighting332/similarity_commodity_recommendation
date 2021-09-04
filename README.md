@@ -1,5 +1,5 @@
 # similarity_commodity_recommendation
- This project of similarity commodity recommendation was finished by Xianyao Chen, who is serving for E-commerce company (MIX:D,  믹스디) of Sourth Korea in 2021.
+ This project of similarity commodity recommendation was finished by Xianyao Chen, who is serving for E-commerce company (MIX:D,믹스디 주식화사) of Sourth Korea in 2021.
  
  [1] Target: Input commodity id, output the similarity commodity id with descending score of similarity.
  
