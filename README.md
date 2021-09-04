@@ -1,7 +1,7 @@
 # similarity_commodity_recommendation
  This project of similarity commodity recommendation was finished by Xianyao Chen, who worked for E-commerce company (MIX:D,  믹스디) of Sourth Korea in 2021.
  
- [1] Target: Input commomdity id, output the similarity commodity id with descending score of similarity.
+ [1] Target: Input commodity id, output the similarity commodity id with descending score of similarity.
  
  [2] Background: Based on the SQL database, extract two tables describing commodity information:
  
