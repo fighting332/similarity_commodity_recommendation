@@ -15,7 +15,7 @@
  
  B. Make a dict: key is category id, value is commodity id. All of the commodity id have the same category id.
  
- C. Jaccard similarity: calculate the similarity of commodity name. 
+ C. Jaccard similarity: calculate the similarity of commodity name to sort commodity id in descending order.
  
  [4] Result: Given the input commodity id, output similarity commodity id with descending score of similarity  
  
